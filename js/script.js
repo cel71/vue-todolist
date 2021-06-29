@@ -18,4 +18,4 @@ new Vue ({
             this.toDo.splice(index, 1);
         }
     },
-})
+});
